@@ -11,3 +11,8 @@ Data Science Portfolio
 * Created a journal article emphasizing solutions to improve national food insecurity in the United States. 
 * Cleaned data provided by Feeding America by using Python libraries such as Pandas and NumPy.
 * Constructed models to depict trends between 5 years of food banks' budget shortfalls and food insecurity rates. 
+
+# [Project 3: Innovation to Grow Program - Backend Developer/Project Manager]
+* Developed a web platform for ISSNAF Association to manage their database for their employees. 
+* Integrated Node.js and Express.js to supply and update information to the frontend from calls to MYSQL database.
+* Managed weekly client meetings to discuss their vision in order to create desired digital experience.
