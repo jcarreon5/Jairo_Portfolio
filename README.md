@@ -6,3 +6,8 @@ Data Science Portfolio
 * Developed a web-scraping script using BeautifulSoup4 to filter and gather relevant data from the UCM Basketball website.
 * Automated the data cleaning with Pandas in Jupyter Notebooks.
 * Visualized the data using the Pyplot and NumPy libraries. 
+
+# [Project 2: The Effects of Food Consumption during Covid - Stanford Datathon 2021 Finalist](https://github.com/jcarreon5/2021_Stanford_Datathon)
+* Created a journal article emphasizing solutions to improve national food insecurity in the United States. 
+* Cleaned data provided by Feeding America by using Python libraries such as Pandas and NumPy.
+* Constructed models to depict trends between 5 years of food banks' budget shortfalls and food insecurity rates. 
